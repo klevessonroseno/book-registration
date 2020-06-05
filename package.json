@@ -1,0 +1,11 @@
+{
+  "name": "book-registration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/klevessonroseno/book-registration.git",
+  "author": "klevessonroseno <klevesson.developer@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
